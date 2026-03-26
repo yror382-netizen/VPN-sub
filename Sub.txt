@@ -1,5 +1,6 @@
-#profile-title: (sub.txt)
+#profile-title: (название)
 #profile-update-interval: 1 
+
 vless://90f876fa-0458-435a-aceb-a506551f1aab@usa.pinkweb.one:443?security=reality&encryption=none&pbk=1KcbQU2qtusi8zaFc0sTu_kjwNkBO1SDBGZ6G95ZuDo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=usa.pinkweb.one&sid=2a4b439db2a0dacf#%F0%9F%87%BA%F0%9F%87%B8+%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%A8%D1%82%D0%B0%D1%82%D1%8B+%E2%9D%A4%EF%B8%8F 
 vless://d9410e40-3e35-4d3d-9003-c29da804bfb6@5.182.87.185:443?security=reality&sni=www.microsoft.com&pbk=9pVPjpnzx4wyhF0Fes5zDlwv5OKhLcTax4UbOQGYyDA&sid=19e6bc42af7083d5&fp=chrome&type=xhttp&path=%2Fapi%2Fv2%2Fsync#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202 
 vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@wl-ru-vk-02.ray-proxy.ru:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc&security=reality&sid=&sni=cdnv-img.perekrestok.ru&type=#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20Vip%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%7C%20%D1%82%D0%B3%D0%BA:%20VlessTrogan%20 
