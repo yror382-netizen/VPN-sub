@@ -1,11 +1,17 @@
-#profile-title: Шоколад впн
+#profile-title: Шоколадик впн
 #profile-update-interval: 1
 
-vless://a5e65913-62fa-4fd3-b177-0f1664de3cde@white77.alexanderoff.ru:44412?mode=gun&security=reality&encryption=none&authority=&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&fp=chrome&allowinsecure=0&type=grpc&serviceName=xyz&sni=beellne.ru&sid=d49d578f280fd83a#%F0%9F%87%B8%F0%9F%87%AC 
-vless://1fabb370-dac5-47cd-a2cb-f8e82ed9223b@ru.v2tunray.io:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=_1Vo7MoIcb8M1u2e7BkXRQx52-ls3mnMqzTs-TrOjg0&host=vk.com&fp=chrome&allowinsecure=0&type=xhttp&sni=www.vk.com&sid=287d#%F0%9F%87%B7%F0%9F%87%BA+%233+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%7C+%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98 
-vless://e928d85d-f223-0bb8-a1d2-a56e9fbd50e0@109.120.189.223:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE+%235+%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F+%7C+%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98 
-vless://1fabb370-dac5-47cd-a2cb-f8e82ed9223b@212.233.121.192:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=_1Vo7MoIcb8M1u2e7BkXRQx52-ls3mnMqzTs-TrOjg0&host=vk.com&fp=chrome&allowinsecure=0&type=xhttp&sni=www.vk.com&sid=287d#%F0%9F%87%B7%F0%9F%87%BA+%236+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%7C+%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98 
-vless://2b8a999b-cbe6-0bb8-9e40-d1cb6b48dca1@95.163.215.23:4443?mode=packet-up&path=%2F&security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&fp=qq&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%шоколад%5D+Latvia+%F0%9F%87%B1%F0%9F%87%BB+%7C+LTE 
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl126.mechvpn.online:443?security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%BE+%D0%9A%D0%B8%D0%BF%D1%80+%28remiuc%29 
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl3.mechvpn.online:443?security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%28remiuc%29 
-vless://76e52510-75f1-4987-98c6-1d00ccfe90d2@176.109.107.120:443?security=reality&encryption=none&pbk=Ifd2oGWrGK--NoCww2rjLjtGZc5Fe7AJGURA_LKpDU8&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=giga.chat#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%94%92%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%D0%B2%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC 
+vless://73177e44-1031-4803-9f47-355f52a03bd1@144.124.239.180:443?security=reality&encryption=none&pbk=L57cpw9gjlb_s5haOgnEkv1j4D2bK_9s2btR1tUjrj0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=10d1298f55b7cd55#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%28%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%29
+
+vless://b9db20f4-f6ec-4a61-ab04-0db78257bab8@it.coreytech.com:443?security=reality&encryption=none&pbk=ibc3jw7pJ1E14H6TfeAFrdAhqDKnMgh1AJrumv4M3z0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.coreytech.com&sid=62cfcb1ed37be919#%F0%9F%87%AE%F0%9F%87%B9%20russia
+
+vless://c2148300-bcd6-4cd4-b8d8-a7c19b6b6250@wh.ettacent.dev:543?security=reality&encryption=none&pbk=9kA2GwatajG_vCB2pWb4hw29LTJsxZ6ab3zbtof4SnI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%8F%B3%EF%B8%8F%20wLTE%20%7C%20
+
+vless://97e38ddc-b73d-495a-ae1a-100b72d6317c@87.121.82.13:33936?security=reality&encryption=none&pbk=fHYPVpBboesMf_SCl4V-O9-L93ksqs9t9yp6bxKt4Wo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=bd2a259882#CIDER-BPN-%F0%9F%8C%8D-tg_8309509015_int
+
+vless://97e38ddc-b73d-495a-ae1a-100b72d6317c@87.121.82.13:33936?security=reality&encryption=none&pbk=fHYPVpBboesMf_SCl4V-O9-L93ksqs9t9yp6bxKt4Wo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=bd2a259882#CIDER-BPN-%F0%9F%8C%8D-tg_6973203918_int
+
+vless://076efc9b-d61c-4670-b854-8c7ffedf6408@84.201.164.19:16206?security=reality&encryption=none&pbk=fLOR7-xHzjJoBDu7yfSPL19kwzeY8ApJBoT02iYhiiM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=27ed253f1172fa#6157290193_ru
+
+vless://06b7c8c4-c4e1-4deb-812c-39eaea085268@kr.vles.space:1443?security=reality&encryption=none&pbk=Ej_PPr2iomuIl23svqB6FgWf2Sw6FMC6ipavO5w5OXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir.ozone.ru&sid=099755ac7b731e9e#%F0%9F%87%B0%F0%9F%87%B7%20%E2%AD%90%20%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%9A%D0%BE%D1%80%D0%B5%D1%8F%20%7C%2010000000000%20Gbit%20%7C%20TCP 
+vless://73177e44-1031-4803-9f47-355f52a03bd1@144.124.239.180:443?security=reality&encryption=none&pbk=L57cpw9gjlb_s5haOgnEkv1j4D2bK_9s2btR1tUjrj0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=10d1298f55b7cd55#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%28%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%29 
