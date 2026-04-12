@@ -1,0 +1,5 @@
+#profile-title: Devil vpn
+#profile-update-interval: 1 
+
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@188.114.98.0:443?path=%2Fcahttingws&security=tls&encryption=none&alpn=http/1.1&host=639075478000711639.civic-perma.info&allowinsecure=0&type=ws&sni=639075478000711639.civic-perma.info#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%93%B6LTE%7C%40Devil_vpn+%234 
+vless://758e5d79-df2b-4db6-aa2e-506bad730a1f@de11.kubservice.icu:443?security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de11.kubservice.icu#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%7C%40devil_vpn+%234
