@@ -1,8 +1,5 @@
 #profile-title: DEMO
-#profile-update-interval: 1 
+#profile-update-interval: 1
 
-vless://668ff36e-ffc8-4b07-8d78-19e052ece1f7@nl.mxm-vpn.com:47821?security=reality&encryption=none&pbk=7tENoCrmPH52iLr4wExEhbO05KIuDIOo2KFvYPQiFVY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=a1b2c3d4e5f67890#%F0%9F%87%B3%F0%9F%87%B1+Netherlands+%28EU%29 
-vless://a0b9444c-fad4-4b90-9011-e4441c2eeefc@78.24.218.21:443?mode=stream-one&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&pbk=GykL0PSK4hmQ8vGX4trJZTIRqPAIhjGlKU7WsXXIqU0&fp=qq&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=a1b2c3d4e5f6#%F0%9F%87%A9%F0%9F%87%AA+Germany+%5BSNI-RU%5D+ads.x5.ru 
-vless://f303a179-b6d0-4738-8e4c-2ed5e2ba7fc8@37.120.175.98:443?security=reality&encryption=none&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=5d8bd36d#%F0%9F%87%AA%F0%9F%87%BA%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D 
-vless://668ff36e-ffc8-4b07-8d78-19e052ece1f7@dusk.gconexustun.online:48932?mode=auto&path=%2F&security=reality&encryption=none&pbk=WzsJvOdlOXB-uVFGstG-RBONf-Qr8CFaHRowkEu5s1E&fp=chrome&allowinsecure=0&type=xhttp&sni=www.nvidia.com#%F0%9F%87%AB%F0%9F%87%AE+Finland+%28RU%29 
+vless://668ff36e-ffc8-4b07-8d78-19e052ece1f7@nl.mxm-vpn.com:47821?security=reality&encryption=none&pbk=7tENoCrmPH52iLr4wExEhbO05KIuDIOo2KFvYPQiFVY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=a1b2c3d4e5f67890#%F0%9F%87%B3%F0%9F%87%B1%2BNetherlands%2B%28EU%29%20 
+vless://668ff36e-ffc8-4b07-8d78-19e052ece1f7@dusk.gconexustun.online:48932?mode=auto&path=%2F&security=reality&encryption=none&pbk=WzsJvOdlOXB-uVFGstG-RBONf-Qr8CFaHRowkEu5s1E&fp=chrome&type=xhttp&sni=www.nvidia.com#%F0%9F%87%AB%F0%9F%87%AE%2BFinland%2B%28RU%29%20 
