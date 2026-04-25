@@ -3,7 +3,7 @@ profile-update-interval: 1
 #profile-web-page-url: https://t.me/TEST
 #support-url: https://t.me/twempy
 #announce: 🌟 TEST- всегда бесплатный! 💓🚀 Сделано с любовью test 💝 / ⚙️ test • 👤 by test • 👥 tgc testvpn
-#subscription-userinfo: upload=0; download=0; total=0 
+#subscription-userinfo: upload=0; download=0; total=4 
 
 vless://668ff36e-ffc8-4b07-8d78-19e052ece1f7@nl.mxm-vpn.com:47821?security=reality&encryption=none&pbk=7tENoCrmPH52iLr4wExEhbO05KIuDIOo2KFvYPQiFVY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=a1b2c3d4e5f67890#%F0%9F%87%B3%F0%9F%87%B1%2BNetherlands%2B%28EU%29%20 
 vless://668ff36e-ffc8-4b07-8d78-19e052ece1f7@dusk.gconexustun.online:48932?mode=auto&path=%2F&security=reality&encryption=none&pbk=WzsJvOdlOXB-uVFGstG-RBONf-Qr8CFaHRowkEu5s1E&fp=chrome&type=xhttp&sni=www.nvidia.com#%F0%9F%87%AB%F0%9F%87%AE%2BFinland%2B%28RU%29%20 
